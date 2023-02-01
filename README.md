@@ -1,4 +1,4 @@
-# CDC2023-Model-Predictive-Control-of-Wind-Turbines-with-Piecewise-Affine-Power-Coefficient
+# Model-Predictive-Control-of-Wind-Turbines-with-Piecewise-Affine-Power-Coefficient
 
 getParametersPWACp provides parameters for the
 piecewise affine function approximation of the 
