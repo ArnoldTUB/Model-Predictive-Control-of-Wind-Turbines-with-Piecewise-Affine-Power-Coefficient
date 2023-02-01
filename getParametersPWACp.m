@@ -1,5 +1,5 @@
 function parametersPWabp = getParametersPWACp()
-%GETPARAMETERSPWabP provides parameters for the
+%GETPARAMETERSPWACP provides parameters for the
 % piecewise affine function approximation of the 
 % IEA 3.4-MW land-based wind turbine's power coefficient
 % curve. The approximation is described in
